@@ -1,3 +1,2 @@
 # myapi
-RESTful API on PHP<br>
-In progress!
+<h1>RESTful API on PHP</h1>
